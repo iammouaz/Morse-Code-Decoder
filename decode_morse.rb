@@ -27,7 +27,7 @@ def decode(message)
   message = message.split('   ')
   result = []
   message.each do |char|
-    result.push(decode_word(char))
+    result.push(decoded_word(char))
   end
   result.join(' ')
 end
