@@ -19,8 +19,8 @@ Ruby >= 3.0.0
 
 👤 **Mouaz Molkey**
 
-- GitHub: [![@iammouaz](https://img.shields.io/github/followers/iammouaz?color=lightgray&style=plastic&labelColor=blue)](https://github.com/lfmnovaes)
-- Twitter: [![@MoazMulki1](https://img.shields.io/twitter/follow/MoazMulki1?style=plastic&labelColor=blue)](https://www.twitter.com/lfmnovaes/)
+- GitHub: [![@iammouaz](https://img.shields.io/github/followers/iammouaz?color=lightgray&style=plastic&labelColor=blue)](https://github.com/iammouaz)
+- Twitter: [![@MoazMulki1](https://img.shields.io/twitter/follow/MoazMulki1?style=plastic&labelColor=blue)](https://www.twitter.com/MoazMulki1/)
 - LinkedIn: [![@mouaz-molki](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/mouaz-molki/)
 
 ## 🤝 Contributing
